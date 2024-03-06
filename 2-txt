@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+PC-SCHWA    1431    1430 pty0     10:28:24 /usr/bin/bash
+PC-SCHWA    1430       1 ?        10:28:23 /usr/bin/mintty
+PC-SCHWA    1561    1431 pty0     11:42:52 /usr/bin/ps
